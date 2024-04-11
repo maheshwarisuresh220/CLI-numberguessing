@@ -8,5 +8,5 @@ if (randomNumber === answers.UserGuessNumber) {
     console.log("Congratulations!\nBoth Numbers are same number in computer memory is " + randomNumber + " and number entered is " + answers.UserGuessNumber);
 }
 else {
-    console.log("You Guessed Wrong number number in computer memory is " + randomNumber + " and number entered is " + answers.UserGuessNumber);
+    console.log("You Guessed Wrong!\nNumber number in computer memory is " + randomNumber + " and number entered is " + answers.UserGuessNumber);
 }
